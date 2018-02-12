@@ -1,0 +1,12 @@
+127.0.0.1 us01.rayjump.com
+127.0.0.1 wd.adcolony.com
+127.0.0.1 d3e8xvf8dyclkj.cloudfront.net
+127.0.0.1 impression.appsflyer.com
+127.0.0.1 tr.pubnative.net
+127.0.0.1 ns8.clickkydsp.com
+127.0.0.1 sdk.adincube.com
+127.0.0.1 adc3-launch.adcolony.com
+127.0.0.1 a.applvn.com
+127.0.0.1 dsp.mobvista.com
+127.0.0.1 ads.avocarrot.com
+127.0.0.1 config.unityads.unity3d.com
